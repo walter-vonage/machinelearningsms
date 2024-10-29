@@ -1,3 +1,10 @@
+To run this example:
+
+1) Download the files
+2) Must have NODE JS installed
+3) Run ```npm install```
+
+
 # Machine Learning SMS
 A Machine Learning application which understands if a message is Spam or not.
 
