@@ -1,0 +1,7 @@
+Congratulations, you've won a prize!	Spam
+Your bank account needs verification	Spam
+Win big today! Click here!	Spam
+See you at the office tomorrow!	Not Spam
+Dinner at 7 pm?	Not Spam
+Hey, are we still on for lunch?	Not Spam
+
