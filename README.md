@@ -13,11 +13,11 @@ Hey, are we still on for lunch?	Not Spam
 ```
 
 ## 2) Run the trainer
-Run ```node index.js``` to read the text content and generate a new file called ```spamClassifier.json```
+Run ```node model_trainer.js``` to read the text content and generate a new file called ```spamClassifier.json```
 This JSON file containsd the training for messages to analyse.
 
 ## 3) Test some messages based on the learning
-Run ```node testSpamClassifier.js``` with some messages in the array provided inside the code
+Run ```node search_for_spam.js``` with some messages in the array provided inside the code
 ```
 const testMessages = [
     "Congratulations, you've won a prize!",         // Spam (expected)
