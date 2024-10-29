@@ -19,7 +19,6 @@ This JSON file containsd the training for messages to analyse.
 ## 3) Test some messages based on the learning
 Run ```node testSpamClassifier.js``` with some messages in the array provided inside the code
 ```
-// Mock messages to test the classifier
 const testMessages = [
     "Congratulations, you've won a prize!",         // Spam (expected)
     "Your account has been compromised, act now!",  // Spam (expected)
